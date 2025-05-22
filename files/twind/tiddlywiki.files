@@ -1,0 +1,12 @@
+{
+	"tiddlers": [
+		{
+			"file": "twind.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/bj/twd/lib/twind.js",
+				"module-type": "library"
+			}
+		}
+	]
+}
