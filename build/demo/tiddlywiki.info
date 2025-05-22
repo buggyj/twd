@@ -1,6 +1,6 @@
 {
 	"plugins": [
-		"developer/buildtw"
+		"bj/twd"
 	],
 	"themes": [
 		"tiddlywiki/vanilla",
